@@ -1,11 +1,5 @@
 ## CodingBat - Java
 
-<p align="left">
-    <a href="https://codingbat.com/java">
-        <img width="70%" src="images/java.png">
-    </a>
-</p>
-
 | Section                                         |      Solved/Total     |   | Section                                                 |       Solved/Total       |
 |-------------------------------------------------|:---------------------:|---|---------------------------------------------------------|:------------------------:|
 | [Warmup-1](https://codingbat.com/java/Warmup-1) | [31/31](Warmup1.java) |   | [Logic-1](https://codingbat.com/java/Logic-1)           |   [30/30](Logic1.java)   |

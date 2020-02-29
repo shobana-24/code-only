@@ -4,14 +4,28 @@
   </a>
 </p>
 
-<p align="center">
-  <b>What is CodingBat?</b><br>
-  <a href="https://codingbat.com/about.html">CodingBat</a> is a site created by Stanford CS lecturer <a href="https://cs.stanford.edu/people/nick/">Nick Parlante</a> that provides programming exercises in Java and Python. Topics are limited to language/programming fundamentals (e.g., common control/data structures, built-in functions, & recursion), with a healthy range of difficulties. The focus is on quickly writing clean, efficient code for relatively small (though not always simple) functions. <br><br>
-  <b>What's this repository for?</b><br>
-    A collection of my solutions to each of the exercises. Unfortunately, many existing public solutions are somewhat sloppy, overly complex, or otherwise difficult to read. Mine try to balance readability, efficiency, and general best practices.<br><br>
-</p>
 
-## [Java](https://codingbat.com/java)
+## What is CodingBat?
+
+[CodingBat](https://codingbat.com/about.html) is a site created by Stanford lecturer
+[Nick Parlante](https://cs.stanford.edu/people/nick/), providing programming exercises
+in Java and Python. Topics are limited to language/programming fundamentals (e.g., common
+control/data structures, built-in functions, & recursion), with a healthy range of difficulties.
+The focus is on quickly writing clean, efficient code for small (though not always simple) functions.
+
+
+## What is this repository?
+
+This is a collection of my solutions to each of CodingBat's exercises. Unfortunately, many existing public
+solutions are somewhat sloppy, overly complex, or otherwise difficult to read. Mine try to balance
+readability, efficiency, and general best practices. I hope learners will appreciate this style,
+and incorporate it into their own code. I've added notes on best practices where appropriate.
+
+---
+
+## Solutions
+
+### [Java](Java)
     
 | Section                                         |        Solved/Total        |   | Section                                                 |          Solved/Total         |
 |-------------------------------------------------|:--------------------------:|---|---------------------------------------------------------|:-----------------------------:|
@@ -25,7 +39,7 @@
 | [String-3](https://codingbat.com/java/String-3) | [11/11](Java/String3.java) |   | [Functional-2](https://codingbat.com/java/Functional-2) |  [9/9](Java/Functional2.java) |
 | [AP-1](https://codingbat.com/java/AP-1)         |   [21/21](Java/AP1.java)   |   |                                                         |                               |
 
-## [Python](https://codingbat.com/python)
+### [Python](Python)
 
 | Section                                           |        Solved/Total        |   | Section                                           |        Solved/Total        |
 |---------------------------------------------------|:--------------------------:|---|---------------------------------------------------|:--------------------------:|
@@ -34,18 +48,20 @@
 | [Logic-1](https://codingbat.com/python/Logic-1)   |   [9/9](Python/logic1.py)  |   | [List-1](https://codingbat.com/python/List-1)     |  [12/12](Python/list1.py)  |
 | [Logic-2](https://codingbat.com/python/Logic-2)   |   [7/7](Python/logic2.py)  |   | [List-2](https://codingbat.com/python/List-2)     |   [6/6](Python/list2.py)   |
 
+---
+
 ## Completion
 
-Stars and checkmarks are CodingBat's way of displaying your progress through the exercises. As motivation for others working through the challenges, here's what it looks like when you've finished every problem:
+Stars and checkmarks are CodingBat's way of displaying your progress through the exercises. As motivation for others working through the challenges, here's how it looks when you've finished every problem:
 
-### Completed - Java
+### Java
 <p>
   <a href="images/java.png">
     <img width="70%" src="images/java.png">
   </a>
 </p>
 
-### Completed - Python
+### Python
 <p>
   <a href="images/python.png">
     <img width="70%" src="images/python.png">

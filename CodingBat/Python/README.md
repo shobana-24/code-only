@@ -1,11 +1,5 @@
 ## CodingBat - Python
 
-<p align="left">
-    <a href="https://codingbat.com/python">
-        <img width="70%" src="images/python.png">
-    </a>
-</p>
-
 | Section                                           |     Solved/Total    |   | Section                                           |     Solved/Total    |
 |---------------------------------------------------|:-------------------:|---|---------------------------------------------------|:-------------------:|
 | [Warmup-1](https://codingbat.com/python/Warmup-1) | [12/12](warmup1.py) |   | [String-1](https://codingbat.com/python/String-1) | [11/11](string1.py) |
