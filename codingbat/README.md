@@ -23,7 +23,7 @@ and incorporate it into their own code. I've added notes on best practices where
 
 ## Solutions
 
-### [Java](Java)
+### [Java](java)
     
 | Section                                         |             Solved/Total             |   | Section                                                 |               Solved/Total              |
 |-------------------------------------------------|:------------------------------------:|---|---------------------------------------------------------|:---------------------------------------:|
@@ -37,7 +37,7 @@ and incorporate it into their own code. I've added notes on best practices where
 | [String-3](https://codingbat.com/java/String-3) | [11/11](java/solutions/String3.java) |   | [Functional-2](https://codingbat.com/java/Functional-2) |  [9/9](java/solutions/Functional2.java) |
 | [AP-1](https://codingbat.com/java/AP-1)         |   [21/21](java/solutions/AP1.java)   |   |                                                         |                                         |
 
-### [Python](Python)
+### [Python](python)
 
 | Section                                           |             Solved/Total             |   | Section                                           |             Solved/Total             |
 |---------------------------------------------------|:------------------------------------:|---|---------------------------------------------------|:------------------------------------:|
