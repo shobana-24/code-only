@@ -26,7 +26,7 @@ as a reference of clean, readable solutions for anyone working through the tutor
 |  3  | [SELECT from Nobel](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)       |  [14/14](tutorials/3_SELECT_from_nobel.sql)   |
 |  4  | [SELECT within SELECT](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial) | [10/10](tutorials/4_SELECT_within_SELECT.sql) |
 |  5  | [SUM and COUNT](https://sqlzoo.net/wiki/SUM_and_COUNT)                        |     [8/8](tutorials/5_SUM_and_COUNT.sql)      |
-|  6  | [JOIN](https://sqlzoo.net/wiki/The_JOIN_operation)                            |        [13/13 ]tTutorials/6_JOIN.sql)         |
+|  6  | [JOIN](https://sqlzoo.net/wiki/The_JOIN_operation)                            |        [13/13 ](tutorials/6_JOIN.sql)         |
 |  7  | [More JOIN operations](https://sqlzoo.net/wiki/More_JOIN_operations)          | [15/15](tutorials/7_More_JOIN_operations.sql) |
 |  8  | [Using Null](https://sqlzoo.net/wiki/Using_Null)                              |      [10/10](tutorials/8_Using_NULL.sql)      |
 | 8+  | [Numeric Examples](https://sqlzoo.net/wiki/NSS_Tutorial)                      |  [8/8](tutorials/8%2B_numeric_examples.sql)   |
