@@ -20,17 +20,17 @@ as a reference of clean, readable solutions for anyone working through the tutor
 
 |  #  | Tutorial Topic                                                                |                 Solved/Total                  |
 | :-: | ----------------------------------------------------------------------------- | :-------------------------------------------: |
-|  0  | [SELECT basics](https://sqlzoo.net/wiki/SELECT_basics)                        |     [3/3](tutorials/0_SELECT_basics.sql)      |
-|  1  | [SELECT name](https://sqlzoo.net/wiki/SELECT_names)                           |     [15/15](tutorials/1_SELECT_name.sql)      |
-|  2  | [SELECT from World](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)       |  [13/13](tutorials/2_SELECT_from_world.sql)   |
-|  3  | [SELECT from Nobel](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)       |  [14/14](tutorials/3_SELECT_from_nobel.sql)   |
-|  4  | [SELECT within SELECT](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial) | [10/10](tutorials/4_SELECT_within_SELECT.sql) |
-|  5  | [SUM and COUNT](https://sqlzoo.net/wiki/SUM_and_COUNT)                        |     [8/8](tutorials/5_SUM_and_COUNT.sql)      |
-|  6  | [JOIN](https://sqlzoo.net/wiki/The_JOIN_operation)                            |        [13/13 ](tutorials/6_JOIN.sql)         |
-|  7  | [More JOIN operations](https://sqlzoo.net/wiki/More_JOIN_operations)          | [15/15](tutorials/7_More_JOIN_operations.sql) |
-|  8  | [Using Null](https://sqlzoo.net/wiki/Using_Null)                              |      [10/10](tutorials/8_Using_NULL.sql)      |
-| 8+  | [Numeric Examples](https://sqlzoo.net/wiki/NSS_Tutorial)                      |  [8/8](tutorials/8%2B_numeric_examples.sql)   |
-|  9  | [Self join](https://sqlzoo.net/wiki/Self_join)                                |      [10/10](tutorials/9_Self_join.sql)       |
+|  0  | [SELECT basics](https://sqlzoo.net/wiki/SELECT_basics)                        |     [3/3](tutorials/0-select-basics.sql)      |
+|  1  | [SELECT name](https://sqlzoo.net/wiki/SELECT_names)                           |     [15/15](tutorials/1-select-name.sql)      |
+|  2  | [SELECT from World](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)       |  [13/13](tutorials/2-select-from-world.sql)   |
+|  3  | [SELECT from Nobel](https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial)       |  [14/14](tutorials/3-select-from-nobel.sql)   |
+|  4  | [SELECT within SELECT](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial) | [10/10](tutorials/4-select-within-select.sql) |
+|  5  | [SUM and COUNT](https://sqlzoo.net/wiki/SUM_and_COUNT)                        |     [8/8](tutorials/5-sum-and-count.sql)      |
+|  6  | [JOIN](https://sqlzoo.net/wiki/The_JOIN_operation)                            |        [13/13 ](tutorials/6-join.sql)         |
+|  7  | [More JOIN operations](https://sqlzoo.net/wiki/More_JOIN_operations)          | [15/15](tutorials/7-more-join-operations.sql) |
+|  8  | [Using Null](https://sqlzoo.net/wiki/Using_Null)                              |      [10/10](tutorials/8-using-null.sql)      |
+| 8+  | [Numeric Examples](https://sqlzoo.net/wiki/NSS_Tutorial)                      |  [8/8](tutorials/8%2B-numeric-examples.sql)   |
+|  9  | [Self join](https://sqlzoo.net/wiki/Self_join)                                |      [10/10](tutorials/9-self-join.sql)       |
 
 ### Notes on Style
 
